@@ -1,0 +1,19 @@
+From ba030bf98ae1b2e44f184c2cf13849e7bb3403ff Mon Sep 17 00:00:00 2001
+From: CHIA_WEI_fatwei <fattyboobootw@gmail.com>
+Date: Tue, 27 Nov 2018 10:16:52 +0800
+Subject: [PATCH 3/3] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=20white.txt?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ git-practice/white.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 git-practice/white.txt
+
+diff --git a/git-practice/white.txt b/git-practice/white.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.19.1
+

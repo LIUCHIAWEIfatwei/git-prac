@@ -1,0 +1,23 @@
+From e759d2e7bfe9476b8b4041b8cc83469e43313a15 Mon Sep 17 00:00:00 2001
+From: CHIA_WEI_fatwei <fattyboobootw@gmail.com>
+Date: Tue, 27 Nov 2018 10:15:56 +0800
+Subject: [PATCH 2/3] =?UTF-8?q?=E6=B7=BB=E5=8A=A0=20err.html?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ git-practice/err.html | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 git-practice/err.html
+
+diff --git a/git-practice/err.html b/git-practice/err.html
+new file mode 100644
+index 0000000..df79877
+--- /dev/null
++++ b/git-practice/err.html
+@@ -0,0 +1 @@
++# error
+-- 
+2.19.1
+
